@@ -9,10 +9,10 @@ ENV/
 .env.*
 
 # Data files 
-# data/
-# *.csv
-# *.xlsx
-# *.xls
+data/
+*.csv
+*.xlsx
+*.xls
 
 # Jupyter artifacts
 .ipynb_checkpoints/
